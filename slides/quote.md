@@ -1,7 +1,6 @@
 ::quote::
 
-Kites rise <Variant type="info">highest</Variant> against the wind - not with it.
-
+Devenir propriétaire, <Variant type="warning">ancien</Variant> ou faire <Variant type="warning">construire</Variant> ?
 
 ::author::
-Winston Churchill
+Moi

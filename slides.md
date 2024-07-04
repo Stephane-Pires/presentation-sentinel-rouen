@@ -57,7 +57,7 @@ src: ./slides/note.md
 ---
 layout: section
 src: ./slides/sections/1.md
-number: 1
+number: 2
 ---
 
 
@@ -87,10 +87,6 @@ layout: code
 src: ./slides/code.md
 ---
 
----
-layout: code
-src: ./slides/code-two.md
----
 
 ---
 layout: punch
@@ -113,14 +109,6 @@ image: ./images/leakmited.jpeg
 layout: feedback
 ---
 
----
-layout: roti
----
-
----
-layout: starwars
-src: ./slides/starwars.md
----
 
 ---
 layout: end

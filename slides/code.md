@@ -1,8 +1,8 @@
 
 ```ts {all|2|45-55|9|all}{maxHeight:'440px'}
 
-// create a graph class
-class Graph {
+// Connexion à la source de donnée
+class ConnectToBDD {
     // defining vertex array and
     // adjacent list
     constructor(noOfVertices)

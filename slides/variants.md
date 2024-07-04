@@ -1,7 +1,4 @@
-# Component : Variant
+# Objectif : Liste
 
-Using Variants, you have access to different colors of the application 
-
- * <Variant type="warning" v-click>  WARNING : for important things  </Variant>
- * <Variant type="accent" v-click> ACCENT : to get main color of the theme</Variant>
- * <Variant type="info" v-click> INFO: to specify something is an extra info</Variant>
+ * <div v-click>  1 - (TECHNIQUE) : Comprendre & créer un pont pour accéder a vos données </div>
+ * <div v-click>  2 - (PRODUIT) : Comprendre vos différents métiers (tâches, objectifs, compétences)</div>
