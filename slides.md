@@ -24,6 +24,12 @@ src: ./slides/table-of-content.md
 ---
 
 ---
+layout: image-left
+src: ./slides/qrcode.md
+image: ./images/qrcode.png
+---
+
+---
 layout: section
 src: ./slides/sections/0.md
 number: 1
@@ -41,6 +47,8 @@ layout: image-right
 src: ./slides/image-right.md
 image: ./images/leakmited.jpeg
 ---
+
+
 
 ---
 layout: center
