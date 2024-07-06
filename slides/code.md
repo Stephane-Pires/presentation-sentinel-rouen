@@ -3,8 +3,6 @@
 
 // Connexion à la source de donnée
 class ConnectToBDD {
-    // defining vertex array and
-    // adjacent list
     constructor(noOfVertices)
     {
         this.noOfVertices = noOfVertices;
@@ -12,13 +10,11 @@ class ConnectToBDD {
     }
  
     // functions to be implemented
- 
-    // addVertex(v)
-    // addEdge(v, w)
-    // printGraph()
- 
-    // bfs(v)
-    // dfs(v)
+     addVertex(v)
+     addEdge(v, w)
+     printGraph()
+     bfs(v)
+     dfs(v)
 }
 
 

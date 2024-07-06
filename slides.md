@@ -29,47 +29,6 @@ src: ./slides/sections/0.md
 number: 1
 ---
 
----
-layout: center
-src: ./slides/without-text.md
----
-
----
-layout: center
-src: ./slides/with-text.md
----
-
----
-layout: center
-src: ./slides/variants.md
----
-
----
-layout: center
-src: ./slides/card.md
----
-
----
-layout: center
-src: ./slides/note.md
----
-
----
-layout: section
-src: ./slides/sections/1.md
-number: 2
----
-
-
----
-layout: default
-src: ./slides/default.md
----
-
----
-layout: cover
-src: ./slides/cover-layout.md
----
 
 ---
 layout: intro
@@ -78,15 +37,23 @@ presenterImage: 'images/portrait.jpeg'
 ---
 
 ---
-layout: quote
-src: ./slides/quote.md
+layout: image-right
+src: ./slides/image-right.md
+image: ./images/leakmited.jpeg
 ---
 
 ---
-layout: code
-src: ./slides/code.md
+layout: center
+src: ./slides/note.md
 ---
 
+
+
+---
+layout: section
+src: ./slides/sections/1.md
+number: 2
+---
 
 ---
 layout: punch
@@ -94,16 +61,51 @@ src: ./slides/punch.md
 ---
 
 ---
-layout: iframe-left
-src: ./slides/iframe-left.md
-url: https://en.wikipedia.org/wiki/Anemoi
+layout: center
+src: ./slides/variants.md
 ---
 
 ---
-layout: image-right
-src: ./slides/image-right.md
-image: ./images/leakmited.jpeg
+layout: punch
+src: ./slides/plan.md
 ---
+
+---
+layout: code
+src: ./slides/code.md
+---
+
+---
+layout: center
+src: ./slides/datadatadata.md
+---
+
+
+---
+layout: center
+src: ./slides/exploitant.md
+---
+
+
+---
+layout: center
+src: ./slides/operateur.md
+---
+
+
+
+---
+layout: section
+src: ./slides/sections/2.md
+number: 3
+---
+
+
+---
+layout: quote
+src: ./slides/quote.md
+---
+
 
 ---
 layout: feedback
