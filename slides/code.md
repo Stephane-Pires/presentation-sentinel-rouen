@@ -1,5 +1,5 @@
 
-```ts {all|2|45-55|9|all}{maxHeight:'440px'}
+```ts {maxHeight:'440px'}
 
 // Connexion à la source de donnée
 class ConnectToBDD {
