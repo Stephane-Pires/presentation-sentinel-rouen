@@ -56,6 +56,11 @@ number: 2
 ---
 
 ---
+layout: quote
+src: ./slides/ubiquitous.md
+---
+
+---
 layout: punch
 src: ./slides/punch.md
 ---
