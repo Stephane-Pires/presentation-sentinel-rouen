@@ -16,8 +16,8 @@ export default defineWindiSetup(() => ({
       brand: {
         light: '#ffffff',
         logo: '#ffffff',
-        dark: '#ffffff',
-        darker: '#ffffff'
+        dark: '#07062E',
+        darker: '#07062E'
         },
       dark: {
         background: {
@@ -36,12 +36,12 @@ export default defineWindiSetup(() => ({
       },
       light: {
         background: {
-          left: '#d0ffb7',
-          right: '#d0ffb7'
+          left: '#E6EEFF',
+          right: '#E6EEFF'
         },
-        title: 'white',
+        title: '#07062E',
         text: {
-          base:colors.black,
+          base: colors.black,
           contrast: colors.white,
         },
         warning: '#d11149',
